@@ -18,3 +18,4 @@ hello world! hello git! The first time success!2022/04/27
 now I use the fastgithub.exe so well!
 by git-demo2
 test ssh pull
+test ssh push
