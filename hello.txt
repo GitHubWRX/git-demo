@@ -3,6 +3,7 @@ hello world! hello git! 3333
 hello world! hello git!
 hello world! hello git!
 hello world! hello git!
+hello world! hello git! hot-fix
 hello world! hello git!
 hello world! hello git!
 hello world! hello git!
@@ -10,8 +11,7 @@ hello world! hello git!
 hello world! hello git!
 hello world! hello git!
 hello world! hello git!
-hello world! hello git! master
 hello world! hello git! 
 hello world! hello git!
-hello world! hello git! hot-fix2
-hello world! hello git! hot-fix
+hello world! hello git!
+hello world! hello git!
